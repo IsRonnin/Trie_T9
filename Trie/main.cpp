@@ -40,6 +40,7 @@ int main()
         cout << "Words succecfuly loaded, thank's for wating!" << endl;
     else {
         cout << "FAIL, please retry to load words - or update this application..." << endl;
+        cout << "Please - Read file 'README.md' to repair prog" << endl;
         exit(404);
     }
 
