@@ -13,7 +13,7 @@
 то файлик помещаем в 
 
 
-D:\Users\artem\source\repos\Trie\out\build
+\source\repos\Trie\out\build
 
 ![image](https://github.com/IsRonnin/Trie_T9/assets/103320407/0bc1b248-8468-43e1-83aa-6ac23356331e)
 
